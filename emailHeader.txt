@@ -1,0 +1,9 @@
+5530537521 veha Suwatphisankij (Way)
+X: 5
+Y: 3
+Z: 3
+n:  32
+w:  8
+SAX_A : bcaabbbb
+SAX_B : bbcabbbb
+SAX A,B distance : 0.86
